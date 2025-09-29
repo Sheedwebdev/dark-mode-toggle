@@ -39,11 +39,6 @@ import styled from 'styled-components';
 	  font-size: 1.5rem;
       font-weight: 900;
 	  cursor: pointer;
-
-      &:hover {
-          background: hsl(0deg 0% 0%);
-          color: hsl(0deg 0% 100%);
-      }
   `;
  
   // const Card = styled.div`
